@@ -7,7 +7,10 @@ body{
 }
 h1{
   text-align: center;
-  font-size: 3em;
+  font-size: 6vw;
+  margin-top: 10px;
+  margin-bottom: 10px;
+
 }
 h2{
   font-size: 2em;
@@ -49,4 +52,9 @@ li{
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+
+.Images{
+  /*width:"95%";*/
+  max-width: "3000%";
 }
